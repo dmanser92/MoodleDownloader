@@ -6,3 +6,4 @@ Just fill in the login URL to your Moodle-Site, your username and password in th
 * Downloads the resources with the right titles
 * Downloads folders as well
 
+Inspired by https://github.com/vinaychandra/Moodle-Downloader, but this uses Python3 and handles the moodle-site differently.
