@@ -6,7 +6,6 @@ import re
 
 from configparser import ConfigParser
 
-
 def getContentType(pageUrl):
     with urllib.request.urlopen(pageUrl) as url:
         pageHeaders = url.read()
